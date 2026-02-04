@@ -19,7 +19,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /alphafinmedia.com/ # Uploading to the project root, so /public is correctly nested
+          server-dir: ./ # Use the default FTP login directory
           exclude: |
             **/.git*
             **/.git*/**
