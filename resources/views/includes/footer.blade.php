@@ -5,7 +5,7 @@
                 <img class="h-10 w-auto mb-6 object-contain grayscale hover:grayscale-0 transition"
                     src="{{ asset('Images/alphafin logo-new.png') }}" alt="Alphafin">
                 <p class="text-gray-500 text-sm leading-relaxed mb-6">
-                    Alphafin is the #1 automated press release distribution platform designed for SEO growth and
+                    Alphafin is The #1 Trusted PR platform designed for SEO growth and
                     Generative Engine Optimization (GEO). We help brands get cited by AI and ranked by Google.
                 </p>
                 <div class="flex space-x-4">
